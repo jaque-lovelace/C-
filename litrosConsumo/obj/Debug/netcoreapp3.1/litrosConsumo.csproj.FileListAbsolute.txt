@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\bin\Debug\netcoreapp3.1\litrosConsumo.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\bin\Debug\netcoreapp3.1\litrosConsumo.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\bin\Debug\netcoreapp3.1\litrosConsumo.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\bin\Debug\netcoreapp3.1\litrosConsumo.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\bin\Debug\netcoreapp3.1\litrosConsumo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\bin\Debug\netcoreapp3.1\litrosConsumo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\obj\Debug\netcoreapp3.1\litrosConsumo.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\obj\Debug\netcoreapp3.1\litrosConsumo.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\obj\Debug\netcoreapp3.1\litrosConsumo.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\obj\Debug\netcoreapp3.1\litrosConsumo.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\obj\Debug\netcoreapp3.1\litrosConsumo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\obj\Debug\netcoreapp3.1\litrosConsumo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\litrosConsumo\obj\Debug\netcoreapp3.1\litrosConsumo.genruntimeconfig.cache
