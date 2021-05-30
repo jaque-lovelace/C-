@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\bin\Debug\netcoreapp3.1\aprovado.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\bin\Debug\netcoreapp3.1\aprovado.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\bin\Debug\netcoreapp3.1\aprovado.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\bin\Debug\netcoreapp3.1\aprovado.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\bin\Debug\netcoreapp3.1\aprovado.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\bin\Debug\netcoreapp3.1\aprovado.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\obj\Debug\netcoreapp3.1\aprovado.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\obj\Debug\netcoreapp3.1\aprovado.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\obj\Debug\netcoreapp3.1\aprovado.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\obj\Debug\netcoreapp3.1\aprovado.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\obj\Debug\netcoreapp3.1\aprovado.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\obj\Debug\netcoreapp3.1\aprovado.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\aprovado\obj\Debug\netcoreapp3.1\aprovado.genruntimeconfig.cache

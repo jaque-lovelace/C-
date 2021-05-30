@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.genruntimeconfig.cache

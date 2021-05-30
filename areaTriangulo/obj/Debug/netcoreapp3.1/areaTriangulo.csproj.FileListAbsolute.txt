@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\bin\Debug\netcoreapp3.1\areaTriangulo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\areaTriangulo\obj\Debug\netcoreapp3.1\areaTriangulo.genruntimeconfig.cache

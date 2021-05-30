@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\bin\Debug\netcoreapp3.1\antecessorSucessor.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\bin\Debug\netcoreapp3.1\antecessorSucessor.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\bin\Debug\netcoreapp3.1\antecessorSucessor.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\bin\Debug\netcoreapp3.1\antecessorSucessor.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\bin\Debug\netcoreapp3.1\antecessorSucessor.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\bin\Debug\netcoreapp3.1\antecessorSucessor.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\obj\Debug\netcoreapp3.1\antecessorSucessor.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\obj\Debug\netcoreapp3.1\antecessorSucessor.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\obj\Debug\netcoreapp3.1\antecessorSucessor.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\obj\Debug\netcoreapp3.1\antecessorSucessor.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\obj\Debug\netcoreapp3.1\antecessorSucessor.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\obj\Debug\netcoreapp3.1\antecessorSucessor.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\antecessorSucessor\obj\Debug\netcoreapp3.1\antecessorSucessor.genruntimeconfig.cache
