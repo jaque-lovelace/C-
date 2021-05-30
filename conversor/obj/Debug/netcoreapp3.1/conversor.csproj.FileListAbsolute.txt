@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\bin\Debug\netcoreapp3.1\conversor.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\bin\Debug\netcoreapp3.1\conversor.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\bin\Debug\netcoreapp3.1\conversor.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\bin\Debug\netcoreapp3.1\conversor.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\bin\Debug\netcoreapp3.1\conversor.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\bin\Debug\netcoreapp3.1\conversor.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\obj\Debug\netcoreapp3.1\conversor.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\obj\Debug\netcoreapp3.1\conversor.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\obj\Debug\netcoreapp3.1\conversor.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\obj\Debug\netcoreapp3.1\conversor.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\obj\Debug\netcoreapp3.1\conversor.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\obj\Debug\netcoreapp3.1\conversor.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\conversor\obj\Debug\netcoreapp3.1\conversor.genruntimeconfig.cache

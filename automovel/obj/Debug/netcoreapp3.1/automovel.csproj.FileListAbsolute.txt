@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\bin\Debug\netcoreapp3.1\automovel.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\bin\Debug\netcoreapp3.1\automovel.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\bin\Debug\netcoreapp3.1\automovel.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\bin\Debug\netcoreapp3.1\automovel.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\bin\Debug\netcoreapp3.1\automovel.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\bin\Debug\netcoreapp3.1\automovel.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\obj\Debug\netcoreapp3.1\automovel.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\obj\Debug\netcoreapp3.1\automovel.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\obj\Debug\netcoreapp3.1\automovel.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\obj\Debug\netcoreapp3.1\automovel.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\obj\Debug\netcoreapp3.1\automovel.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\obj\Debug\netcoreapp3.1\automovel.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\automovel\obj\Debug\netcoreapp3.1\automovel.genruntimeconfig.cache

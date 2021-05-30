@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\bin\Debug\netcoreapp3.1\dias.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\bin\Debug\netcoreapp3.1\dias.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\bin\Debug\netcoreapp3.1\dias.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\bin\Debug\netcoreapp3.1\dias.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\bin\Debug\netcoreapp3.1\dias.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\bin\Debug\netcoreapp3.1\dias.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\obj\Debug\netcoreapp3.1\dias.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\obj\Debug\netcoreapp3.1\dias.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\obj\Debug\netcoreapp3.1\dias.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\obj\Debug\netcoreapp3.1\dias.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\obj\Debug\netcoreapp3.1\dias.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\obj\Debug\netcoreapp3.1\dias.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\dias\obj\Debug\netcoreapp3.1\dias.genruntimeconfig.cache

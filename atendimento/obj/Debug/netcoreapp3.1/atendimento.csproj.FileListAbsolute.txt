@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\bin\Debug\netcoreapp3.1\atendimento.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\bin\Debug\netcoreapp3.1\atendimento.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\bin\Debug\netcoreapp3.1\atendimento.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\bin\Debug\netcoreapp3.1\atendimento.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\bin\Debug\netcoreapp3.1\atendimento.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\bin\Debug\netcoreapp3.1\atendimento.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\obj\Debug\netcoreapp3.1\atendimento.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\obj\Debug\netcoreapp3.1\atendimento.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\obj\Debug\netcoreapp3.1\atendimento.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\obj\Debug\netcoreapp3.1\atendimento.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\obj\Debug\netcoreapp3.1\atendimento.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\obj\Debug\netcoreapp3.1\atendimento.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\atendimento\obj\Debug\netcoreapp3.1\atendimento.genruntimeconfig.cache
