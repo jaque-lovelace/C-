@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\bin\Debug\netcoreapp3.1\partidaFutebol.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\bin\Debug\netcoreapp3.1\partidaFutebol.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\bin\Debug\netcoreapp3.1\partidaFutebol.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\bin\Debug\netcoreapp3.1\partidaFutebol.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\bin\Debug\netcoreapp3.1\partidaFutebol.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\bin\Debug\netcoreapp3.1\partidaFutebol.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\obj\Debug\netcoreapp3.1\partidaFutebol.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\obj\Debug\netcoreapp3.1\partidaFutebol.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\obj\Debug\netcoreapp3.1\partidaFutebol.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\obj\Debug\netcoreapp3.1\partidaFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\obj\Debug\netcoreapp3.1\partidaFutebol.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\obj\Debug\netcoreapp3.1\partidaFutebol.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\partidaFutebol\obj\Debug\netcoreapp3.1\partidaFutebol.genruntimeconfig.cache
