@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\bin\Debug\netcoreapp3.1\escolha.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\bin\Debug\netcoreapp3.1\escolha.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\bin\Debug\netcoreapp3.1\escolha.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\bin\Debug\netcoreapp3.1\escolha.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\bin\Debug\netcoreapp3.1\escolha.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\bin\Debug\netcoreapp3.1\escolha.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\obj\Debug\netcoreapp3.1\escolha.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\obj\Debug\netcoreapp3.1\escolha.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\obj\Debug\netcoreapp3.1\escolha.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\obj\Debug\netcoreapp3.1\escolha.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\obj\Debug\netcoreapp3.1\escolha.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\obj\Debug\netcoreapp3.1\escolha.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\escolha\obj\Debug\netcoreapp3.1\escolha.genruntimeconfig.cache

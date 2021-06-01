@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\bin\Debug\netcoreapp3.1\semaforo.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\bin\Debug\netcoreapp3.1\semaforo.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\bin\Debug\netcoreapp3.1\semaforo.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\bin\Debug\netcoreapp3.1\semaforo.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\bin\Debug\netcoreapp3.1\semaforo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\bin\Debug\netcoreapp3.1\semaforo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\obj\Debug\netcoreapp3.1\semaforo.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\obj\Debug\netcoreapp3.1\semaforo.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\obj\Debug\netcoreapp3.1\semaforo.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\obj\Debug\netcoreapp3.1\semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\obj\Debug\netcoreapp3.1\semaforo.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\obj\Debug\netcoreapp3.1\semaforo.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\semaforo\obj\Debug\netcoreapp3.1\semaforo.genruntimeconfig.cache

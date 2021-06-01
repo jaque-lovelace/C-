@@ -1,0 +1,13 @@
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\bin\Debug\netcoreapp3.1\assistenteTransporte.exe
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\bin\Debug\netcoreapp3.1\assistenteTransporte.deps.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\bin\Debug\netcoreapp3.1\assistenteTransporte.runtimeconfig.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\bin\Debug\netcoreapp3.1\assistenteTransporte.runtimeconfig.dev.json
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\bin\Debug\netcoreapp3.1\assistenteTransporte.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\bin\Debug\netcoreapp3.1\assistenteTransporte.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\obj\Debug\netcoreapp3.1\assistenteTransporte.csprojAssemblyReference.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\obj\Debug\netcoreapp3.1\assistenteTransporte.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\obj\Debug\netcoreapp3.1\assistenteTransporte.AssemblyInfo.cs
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\obj\Debug\netcoreapp3.1\assistenteTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\obj\Debug\netcoreapp3.1\assistenteTransporte.dll
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\obj\Debug\netcoreapp3.1\assistenteTransporte.pdb
+C:\Users\Jaqueline\Desktop\senac ead\UC 03 - AULA MOMENTO ONLINE\desafios\assistenteTransporte\obj\Debug\netcoreapp3.1\assistenteTransporte.genruntimeconfig.cache
